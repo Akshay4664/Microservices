@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="de.codecentric.boot.admin.server.config.EnableAdminServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
+    <fullyQualifiedTypeName name="com.akshay.client.WelcomeFeignClient"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.gateway.filter.GlobalFilter"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.http.server.reactive.ServerHttpRequest"/>
+    <fullyQualifiedTypeName name="io.netty.handler.codec.http.HttpHeaders"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.context.config.annotation.RefreshScope"/>
+</qualifiedTypeNameHistroy>
